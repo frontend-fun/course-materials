@@ -30,4 +30,4 @@ with linting, tests, etc.
 
 ### Wait, what are these tasks?
 
-<https://udel.instructure.com/courses/1631620/pages/syllabus#tasks>
+Check the [Syllabus](../Syllabus.md)!

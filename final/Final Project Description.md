@@ -29,7 +29,7 @@ The advisor's role is to help students become self-sufficient, and they aren't i
 students. Ideally, by the end of their degree, students have chosen their own path to graduation, with minimal input
 from their adviser. To facilitate their choices, students are often strongly recommended to construct a **Degree Plan**.
 
-![A portion of an example, abstract degree plan for a CIS major](https://udel.instructure.com/courses/1631620/files/106275006/preview?verifier=QbEd89kiJO2aT3bvwXgjD1B9672GDV2oIlGOtSjM)  
+![A portion of an example, abstract degree plan for a CIS major](degree_plan_example.png)  
 **A portion of an example, abstract degree plan for a CIS major.**
 
 However, an open-ended field like Computer Science poses a unique challenge, since there are many possible paths to
@@ -42,7 +42,7 @@ Although there are many logistical and administrative barriers to success, at le
 solvable with technology: many students struggle to put together a clear 4-year plan without a lot of prompting and help
 from their adviser.
 
-Your goal is to develop a web application that helps Computer Science majors at the University of Delaware to put together a Degree Plan to streamline their advising experience.[](https://udel.instructure.com/courses/1631620/assignments/9887351 "Final Project Setup")
+Your goal is to develop a web application that helps Computer Science majors at the University of Delaware to put together a Degree Plan to streamline their advising experience.
 
 ### User Stories
 
@@ -105,7 +105,7 @@ and you shouldn't have to worry about your project's state at the end.
 
 ### Basic Setup
 
-To get your repository set up, follow all the instructions carefully in this assignment: [Final Project Setup](https://udel.instructure.com/courses/1631620/assignments/9887351 "Final Project Setup")
+To get your repository set up, follow all the instructions carefully in this assignment: [Final Project Setup](Final Project Setup.md)
 
 ### Weekly Schedule
 

@@ -18,7 +18,7 @@ waltz:
       anonymize_students: false
       anonymous_grading: false
 ---
-To begin the [Final Project,](https://udel.instructure.com/courses/1631620/pages/final-project-description "Final Project Description") complete all of the following instructions. Failure to follow any of the instructions will lead to an incomplete for this assignment.
+To begin the [Final Project,](Final Project Description.md) complete all of the following instructions. Failure to follow any of the instructions will lead to an incomplete for this assignment.
 
 There are a series of questions below in numbered bullet points. Your submission for this assignment must have an answer
 for each numbered question.
@@ -81,7 +81,7 @@ eventually "Done". More information about this process will be given during the 
 
   5. What is the URL of your project board?
 
-![An example of a project board with the appropriate columns](https://udel.instructure.com/courses/1631620/files/108285490/preview?verifier=VeGUCh5DyqfDTtAiEkhVvhjLoBwAGCrTNZ8tqIjP)
+![An example of a project board with the appropriate columns](project_board_example.png)
 
 ### First Branches and Commits
 

@@ -1,7 +1,7 @@
 venv/
 .waltz
 .waltz.db
-.bat
+*.bat
 
 # Logs
 logs

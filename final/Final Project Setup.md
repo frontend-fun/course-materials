@@ -18,7 +18,7 @@ waltz:
       anonymize_students: false
       anonymous_grading: false
 ---
-To begin the [Final Project,](Final Project Description.md) complete all of the following instructions. Failure to follow any of the instructions will lead to an incomplete for this assignment.
+To begin the [Final Project](Final%20Project%20Description.md) complete all of the following instructions. Failure to follow any of the instructions will lead to an incomplete for this assignment.
 
 There are a series of questions below in numbered bullet points. Your submission for this assignment must have an answer
 for each numbered question.

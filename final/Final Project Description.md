@@ -105,7 +105,7 @@ and you shouldn't have to worry about your project's state at the end.
 
 ### Basic Setup
 
-To get your repository set up, follow all the instructions carefully in this assignment: [Final Project Setup](Final Project Setup.md)
+To get your repository set up, follow all the instructions carefully in this assignment: [Final Project Setup](Final%20Project%20Setup.md)
 
 ### Weekly Schedule
 

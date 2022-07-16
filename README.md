@@ -1,6 +1,8 @@
 # course-materials
 Additional course materials (e.g., Canvas pages, assignments) for the "Hooked on TypeScript" Tome course.
 
+If you end up adopting any of this, I'd appreciate an email with feedback! Also feel free to make Pull Requests if you want.
+
 The actual book can be found here: [https://frontend-fun.github.io/react-hooks-typescript-tome/](https://frontend-fun.github.io/react-hooks-typescript-tome/)
 
 * [Syllabus](Syllabus.md)

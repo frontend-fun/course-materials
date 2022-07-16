@@ -4,7 +4,6 @@ Additional course materials (e.g., Canvas pages, assignments) for the "Hooked on
 The actual book can be found here: [https://frontend-fun.github.io/react-hooks-typescript-tome/](https://frontend-fun.github.io/react-hooks-typescript-tome/)
 
 * [Syllabus](Syllabus.md)
-* [What is Agile?](What%20is%20Agile.md)
 * Tasks:
     * [Task 1 - Environment Setup](tasks/Task%201%20-%20Environment%20Setup.md)
     * [Task 2 - Create Your First Branch](tasks/Task%202%20-%20Create%20Your%20First%20Branch.md)
@@ -21,6 +20,7 @@ The actual book can be found here: [https://frontend-fun.github.io/react-hooks-t
 * Final Project start:
     * [Final Project Description](final/Final%20Project%20Description.md)
     * [Final Project Setup](final/Final%20Project%20Setup.md)
+* [What is Agile?](What%20is%20Agile.md)
 * Final Project Sprints:
     * [Sprint Planning Session 1](sprints/Sprint%20Planning%20Session%201.md)
     * [Sprint Review 1](sprints/Sprint%20Review%201.md)

@@ -1,13 +1,5 @@
 These are instructions for instructors to adopt our curriculum.
 
-# The Repos
-
-Once you've been added as an Adopter, you have access to:
-
-- The `frontend-fun/tasks-autograder` (private) repo holds the autograding logic. We put the test folders into `staging_main/tasks/`, and it will create an uploadable zip file for GradeScope, one for each task. We only have to upload those to gradescope once, since after that they'll just pull from this repository. <https://github.com/frontend-fun/tasks-autograder>
-- The `tasks` repo is now up to date with the latest versions of react and my fancy build script. In addition to building and publishing the students code with less hassle (no more weird `GITHUB_TOKENS`, just turn on github pages and actions), it builds a "Quick Links" (accessible at `https://<repo-url>/quick`) page with links to the github repo, a gitinspector report, data dumps from the install/lint/build/test phases (even if one step fails), dumps md5 hashsums of the critical files (to help check for tampered instructor files). <https://frontend-fun.github.io/tasks/docs/quick-links.html>
-- Once we set it up in canvas, students will be able to submit their tasks' repo on gradescope directly from GradeScope embedded in Canvas. I put you in a gradescope course that lets you see the feedback they get, which we can tweak by adjusting the autograder repo.
-
 # Setting up the Assignments
 
 We don't use github classroom for these. You just need to setup the GradeScope course in Canvas.
@@ -20,6 +12,13 @@ We don't use github classroom for these. You just need to setup the GradeScope c
 # Modifying the Autograder
 
 If you are just copying the assignments unchanged, then you shouldn't need to modify the autograder. However, if you do want to make changes, you can fork the `tasks-autograder` repo and then use the tools there.
+
+# The Repos
+
+Once you've been added as an Adopter, you have access to:
+
+- The `frontend-fun/tasks-autograder` (private) repo holds the autograding logic. We put the test folders into `staging_main/tasks/`, and it will create an uploadable zip file for GradeScope, one for each task. We only have to upload those to gradescope once, since after that they'll just pull from this repository. <https://github.com/frontend-fun/tasks-autograder>
+- The `tasks` repo is now up to date with the latest versions of react and my fancy build script. In addition to building and publishing the students code with less hassle (no more weird `GITHUB_TOKENS`, just turn on github pages and actions), it builds a "Quick Links" (accessible at `https://<repo-url>/quick`) page with links to the github repo, a gitinspector report, data dumps from the install/lint/build/test phases (even if one step fails), dumps md5 hashsums of the critical files (to help check for tampered instructor files). <https://frontend-fun.github.io/tasks/docs/quick-links.html>
 
 # Posting Grades
 
